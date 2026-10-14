@@ -1,0 +1,6 @@
+Installation complete.
+
+Please restart OBS Studio, then add a source:
+  Mouse Sliding
+
+Repository: https://github.com/Discrutans/mouse-sliding
